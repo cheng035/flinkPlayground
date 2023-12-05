@@ -1,3 +1,5 @@
+package fraudDetection;
+
 import org.apache.flink.annotation.PublicEvolving;
 import org.apache.flink.streaming.api.functions.sink.SinkFunction;
 import org.apache.flink.walkthrough.common.entity.Alert;
